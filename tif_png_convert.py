@@ -1,3 +1,10 @@
+'''
+Goal: Convert a file containing .tif images to .png format
+
+Input: Folder containing .tif images.
+Output: Folder containing converted .png versions of the inputted .tif images.
+'''
+
 import os
 import time
 import czifile
